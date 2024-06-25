@@ -40,3 +40,12 @@ Look at other functions and figure out what is actually needed
 
 - General
 - Write list of all functions in each file
+
+
+# Ana's to do list
+
+1. look at actipy/actigram_plot
+2. work out what does what and put it in an extra document that explains the purpose of the lines
+3. we want an overview of what is going on, all the functions and see what relies on what. 
+
+
